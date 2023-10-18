@@ -1,0 +1,25 @@
+div .header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 12.5rem;
+    background: var(--gray-700);
+}
+
+.to {
+    color: var(--blue);
+    font-size: 40px;
+    user-select: none; 
+    font-weight: bold;
+}
+
+.do {
+    font-size: 40px;
+    color: var(--purble-dark);
+    user-select: none;
+    font-weight: bold;
+}
+
+img {
+    padding-right: 0.75rem;
+}
